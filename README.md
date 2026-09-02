@@ -1,0 +1,1 @@
+here these is AI repositaries data there in these dataset i used it for the Data analysis part  , first i imported required pandas and numpy etc and i cleaned data and i used basic comments to understand the data after i unerstand some new things about it 
